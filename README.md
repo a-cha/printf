@@ -13,7 +13,7 @@
 - %x
 - %X
 
-#### And manage these flags
+#### And manage any combination of these flags (+ minimum field width)
 - \-
 - 0
 - .
