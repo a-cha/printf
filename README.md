@@ -14,13 +14,13 @@
 - %X
 
 #### And manage these flags
-- -
+- \-
 - 0
 - .
-- *
-- +
+- \*
+- \+
 - ' ' (space flag)
-- #
+- \#
 - l
 - ll
 - h
