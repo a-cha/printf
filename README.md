@@ -1,5 +1,5 @@
-# ft_printf
-###### _Recode the libc’s printf() function_
+# Printf
+###### _My own implementation of libc’s printf() function_
 
 #### Works with the following convesations
 - %%
